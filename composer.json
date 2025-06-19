@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0",
+        "google/apiclient": "^2.0",  
+        "google/cloud-generativelanguage": "^1.0"
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
